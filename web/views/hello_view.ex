@@ -1,3 +1,3 @@
-defmodule HelloPhoenix.HelloView do
-  use HelloPhoenix.View
+defmodule Vgdb.HelloView do
+  use Vgdb.View
 end

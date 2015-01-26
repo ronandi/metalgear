@@ -1,4 +1,4 @@
-defmodule HelloPhoenix.HelloController do
+defmodule Vgdb.HelloController do
 	use Phoenix.Controller
 	
 	plug :action
