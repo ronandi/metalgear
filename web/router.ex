@@ -12,6 +12,7 @@ defmodule Vgdb.Router do
     plug :accepts, ~w(json)
   end
 
+
   scope "/", Vgdb do
     pipe_through :browser # Use the default browser stack
 
